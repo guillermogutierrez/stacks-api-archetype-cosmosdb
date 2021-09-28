@@ -1,0 +1,1 @@
+# stacks-api-archetype-cosmosdb
